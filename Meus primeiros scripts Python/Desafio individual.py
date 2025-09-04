@@ -1,0 +1,5 @@
+input(Vamos coletar alguns dados básicos para preencher sua ficha!)
+dia = input('Qual o dia do seu nascimento?')
+mês = input('Em que mês você nasceu?')
+ano = input('Por fim, em qual ano?')
+print('Você nasceu no dia',dia,'do',mês,'de',ano,',confirma?')
