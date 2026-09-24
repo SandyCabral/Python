@@ -9,12 +9,12 @@ exercícios e projetos desenvolvidos na linguagem Python.
 
 O conteúdo está organizado nas seguintes pastas:
 
-- **/Exercicios_Funcao_em_Python**: Contém exercícios e trabalhos sobre o tópico "Funções" realizados 
-				    para disciplina de Laboratório de Resolução de problemas da Universidade Federal Fluminense (UFF).
+- **Exercicios_Funcao_em_Python**: Contém exercícios e trabalhos sobre o tópico "Funções" realizados
+  para disciplina de Laboratório de Resolução de problemas da Universidade Federal Fluminense (UFF).
 
-- **/Exercicios_Listas_em_Python**: Contém scripts de exercícios sobre o tópico "Listas" em Python, conhecidos como "Vetores" em C.
+- **Exercicios_Listas_em_Python**: Contém scripts de exercícios sobre o tópico "Listas" em Python, conhecidos como "Vetores" em C.
 
-- **/Meus Primeiros scripts Python**: Contém meus primeiros scripts de Python e da vida. Apenas uma recordação de quando comecei a estudar programação.
+- **Meus Primeiros scripts Python**: Contém meus primeiros scripts de Python e da vida. Apenas uma recordação de quando comecei a estudar programação.
 
 
 ## 📫 Como me Encontrar
